@@ -1,0 +1,160 @@
+{
+  "name": "Prime Certified",
+  "timestamp": "2020-09-13T12:12:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "prime",
+    "certified tokens"
+  ],
+  "tokens": [
+    {
+      "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+      "chainId": 1,
+      "name": "Synthetix Network Token",
+      "symbol": "SNX",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb8qa6xqJgkKqhNDt4varAQP4AEvUW2owBP9FA3EgyPBc/Prime%20Rating%20Logos/synthetix-network-token-snx-logo.png"
+    },
+    {
+      "address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+      "chainId": 1,
+      "name": "Nexus Mutual Token",
+      "symbol": "NXM",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmcpBiL2bYNzhEr2N7imG12KnKTa1tYG6JFWHQhRp1k5QU/nxm.png"
+
+    },
+    {
+      "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
+      "chainId": 1,
+      "name": "Bancor Network Token",
+      "symbol": "BNT",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb8qa6xqJgkKqhNDt4varAQP4AEvUW2owBP9FA3EgyPBc/Prime%20Rating%20Logos/bancor-bnt-logo.png"
+    },
+    {
+      "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+      "chainId": 1,
+      "name": "Maker",
+      "symbol": "MKR",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb8qa6xqJgkKqhNDt4varAQP4AEvUW2owBP9FA3EgyPBc/Prime%20Rating%20Logos/maker-mkr-logo.png"
+    },
+    {
+      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "chainId": 1,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb8qa6xqJgkKqhNDt4varAQP4AEvUW2owBP9FA3EgyPBc/Prime%20Rating%20Logos/uniswap-uni-logo.png"
+    },
+    {
+      "address": "0xe2f2a5c287993345a840db3b0845fbc70f5935a5",
+      "chainId": 1,
+      "name": "mStable USD",
+      "symbol": "MUSD",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb8qa6xqJgkKqhNDt4varAQP4AEvUW2owBP9FA3EgyPBc/Prime%20Rating%20Logos/mstable_logo_small.png"
+    },
+    {
+      "address": "0x584bc13c7d411c00c01a62e8019472de68768430",
+      "chainId": 1,
+      "name": "Hegic",
+      "symbol": "HEGIC",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb8qa6xqJgkKqhNDt4varAQP4AEvUW2owBP9FA3EgyPBc/Prime%20Rating%20Logos/hegic-full-logo-blacktext.png"
+    },
+    {
+      "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+      "chainId": 1,
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb8qa6xqJgkKqhNDt4varAQP4AEvUW2owBP9FA3EgyPBc/Prime%20Rating%20Logos/curve-dao-token-crv-logo.png"
+    },
+    {
+      "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
+      "chainId": 1,
+      "name": "Republic Token",
+      "symbol": "REN",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb8qa6xqJgkKqhNDt4varAQP4AEvUW2owBP9FA3EgyPBc/Prime%20Rating%20Logos/ren-ren-logo.png"
+    },
+    {
+      "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+      "chainId": 1,
+      "name": "Kyber Network Crytal v2",
+      "symbol": "KNC",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb8qa6xqJgkKqhNDt4varAQP4AEvUW2owBP9FA3EgyPBc/Prime%20Rating%20Logos/knc-logo-png-transparent.png"
+    },
+    {
+      "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+      "chainId": 1,
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb8qa6xqJgkKqhNDt4varAQP4AEvUW2owBP9FA3EgyPBc/Prime%20Rating%20Logos/yearn-finance-yfi-logo.png"
+    },
+    {
+      "address": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
+      "chainId": 1,
+      "name": "dForce",
+      "symbol": "DF",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb8qa6xqJgkKqhNDt4varAQP4AEvUW2owBP9FA3EgyPBc/Prime%20Rating%20Logos/DF.png"
+    },
+    {
+      "address": "0x111111111117dC0aa78b770fA6A738034120C302",
+      "chainId": 1,
+      "name": "1INCH Token",
+      "symbol": "1INCH",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb8qa6xqJgkKqhNDt4varAQP4AEvUW2owBP9FA3EgyPBc/Prime%20Rating%20Logos/1inch-1inch-logo.png"
+    },
+    {
+      "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+      "chainId": 1,
+      "name": "Graph Token",
+      "symbol": "GRT",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb8qa6xqJgkKqhNDt4varAQP4AEvUW2owBP9FA3EgyPBc/Prime%20Rating%20Logos/the-graph-grt-logo.png"
+    },
+    {
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "chainId": 1,
+      "name": "Compound",
+      "symbol": "COMP",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb8qa6xqJgkKqhNDt4varAQP4AEvUW2owBP9FA3EgyPBc/Prime%20Rating%20Logos/compound-comp-logo.png"
+    },
+    {
+      "address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+      "chainId": 1,
+      "name": "Badger",
+      "symbol": "BADGER",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb8qa6xqJgkKqhNDt4varAQP4AEvUW2owBP9FA3EgyPBc/Prime%20Rating%20Logos/logo.png"
+    },
+    {
+      "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "chainId": 1,
+      "name": "Aave Token",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb8qa6xqJgkKqhNDt4varAQP4AEvUW2owBP9FA3EgyPBc/Prime%20Rating%20Logos/aave-aave-logo.png"
+    },
+    {
+      "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+      "chainId": 1,
+      "name": "Balancer",
+      "symbol": "BAL",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb8qa6xqJgkKqhNDt4varAQP4AEvUW2owBP9FA3EgyPBc/Prime%20Rating%20Logos/balancer-bal-logo.png"
+    }
+  ]
+}
