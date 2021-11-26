@@ -74,6 +74,38 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://gateway.pinata.cloud/ipfs/QmQWRxLqLkke8ScEkUamR72HXVErfrioprBkuQNCPfLbc3"
+    },
+    {
+      "address": "0x04DF6e4121c27713ED22341E7c7Df330F56f289B",
+      "chainId": 42,
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmVChZZtAijsiTnMRFb6ziQLnRocXnBU2Lb3F67K2ZPHho"
+    },
+    {
+      "address": "0xc2569dd7d0fd715B054fBf16E75B001E5c0C1115",
+      "chainId": 42,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmV17MDKrb3aCQa2a2SzBZaCeAeAFrpFmqCjn351cWApGS"
+    },
+    {
+      "address": "0xBE778562b804DF11d0f1C02ADD3cE963E465dd70",
+      "chainId": 42,
+      "name": "PrimeDAO Token",
+      "symbol": "PRIME",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmUL6MXN6Ht2Awc1RQqtGXTdCnGvwq2yMxpoTVQLVf2cvW"
+    },
+    {
+      "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
+      "chainId": 42,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmQWRxLqLkke8ScEkUamR72HXVErfrioprBkuQNCPfLbc3"
     }
   ]
 }
