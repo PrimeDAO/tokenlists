@@ -28,12 +28,12 @@
       "logoURI": "https://primedao.mypinata.cloud/ipfs/QmV17MDKrb3aCQa2a2SzBZaCeAeAFrpFmqCjn351cWApGS"
     },
     {
-      "address": "0xE59064a8185Ed1Fca1D17999621eFedfab4425c9",
+      "address": "0x43D4A3cd90ddD2F8f4f693170C9c8098163502ad",
       "chainId": 1,
-      "name": "PrimeDAO Token",
-      "symbol": "PRIME",
+      "name": "Prime",
+      "symbol": "D2D",
       "decimals": 18,
-      "logoURI": "https://primedao.mypinata.cloud/ipfs/QmUL6MXN6Ht2Awc1RQqtGXTdCnGvwq2yMxpoTVQLVf2cvW"
+      "logoURI": "https://uploads-ssl.webflow.com/608bd350d67fe62ab7818c74/61b3133ad334797e0511dadf_Prime%20logo%20300%20300.png"
     },
     {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -60,12 +60,12 @@
       "logoURI": "https://primedao.mypinata.cloud/ipfs/QmV17MDKrb3aCQa2a2SzBZaCeAeAFrpFmqCjn351cWApGS"
     },
     {
-      "address": "0x80E1B5fF7dAdf3FeE78F60D69eF1058FD979ca64",
+      "address": "0xF70d807A0828d2498fa01246c88bA5BaCd70889b",
       "chainId": 4,
-      "name": "PrimeDAO Token",
-      "symbol": "PRIME",
+      "name": "Prime",
+      "symbol": "D2D",
       "decimals": 18,
-      "logoURI": "https://primedao.mypinata.cloud/ipfs/QmUL6MXN6Ht2Awc1RQqtGXTdCnGvwq2yMxpoTVQLVf2cvW"
+      "logoURI": "https://uploads-ssl.webflow.com/608bd350d67fe62ab7818c74/61b3133ad334797e0511dadf_Prime%20logo%20300%20300.png"
     },
     {
       "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
@@ -92,12 +92,12 @@
       "logoURI": "https://primedao.mypinata.cloud/ipfs/QmV17MDKrb3aCQa2a2SzBZaCeAeAFrpFmqCjn351cWApGS"
     },
     {
-      "address": "0xBE778562b804DF11d0f1C02ADD3cE963E465dd70",
+      "address": "0xC8796bd3FcEca6f38f925e115B0163Ba6627Fd52",
       "chainId": 42,
-      "name": "PrimeDAO Token",
-      "symbol": "PRIME",
+      "name": "Prime",
+      "symbol": "D2D",
       "decimals": 18,
-      "logoURI": "https://primedao.mypinata.cloud/ipfs/QmUL6MXN6Ht2Awc1RQqtGXTdCnGvwq2yMxpoTVQLVf2cvW"
+      "logoURI": "https://uploads-ssl.webflow.com/608bd350d67fe62ab7818c74/61b3133ad334797e0511dadf_Prime%20logo%20300%20300.png"
     },
     {
       "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
