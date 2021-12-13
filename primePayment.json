@@ -1,6 +1,6 @@
 {
   "name": "Prime Payment",
-  "timestamp": "2021-12-10T18:08:32+0000",
+  "timestamp": "2021-12-13T07:22:42+0000",
   "version": {
     "major": 1,
     "minor": 2,
@@ -28,14 +28,6 @@
       "logoURI": "https://primedao.mypinata.cloud/ipfs/QmV17MDKrb3aCQa2a2SzBZaCeAeAFrpFmqCjn351cWApGS"
     },
     {
-      "address": "0x43D4A3cd90ddD2F8f4f693170C9c8098163502ad",
-      "chainId": 1,
-      "name": "Prime",
-      "symbol": "D2D",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PrimeDAO/tokenlists/main/PD_TOKEN-LOGO_Dark-Border.png"
-    },
-    {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1,
       "name": "Wrapped Ether",
@@ -60,14 +52,6 @@
       "logoURI": "https://primedao.mypinata.cloud/ipfs/QmV17MDKrb3aCQa2a2SzBZaCeAeAFrpFmqCjn351cWApGS"
     },
     {
-      "address": "0xF70d807A0828d2498fa01246c88bA5BaCd70889b",
-      "chainId": 4,
-      "name": "Prime",
-      "symbol": "D2D",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PrimeDAO/tokenlists/main/PD_TOKEN-LOGO_Dark-Border.png"
-    },
-    {
       "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
       "chainId": 4,
       "name": "Wrapped Ether",
@@ -90,14 +74,6 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://primedao.mypinata.cloud/ipfs/QmV17MDKrb3aCQa2a2SzBZaCeAeAFrpFmqCjn351cWApGS"
-    },
-    {
-      "address": "0xC8796bd3FcEca6f38f925e115B0163Ba6627Fd52",
-      "chainId": 42,
-      "name": "Prime",
-      "symbol": "D2D",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PrimeDAO/tokenlists/main/PD_TOKEN-LOGO_Dark-Border.png"
     },
     {
       "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
