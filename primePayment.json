@@ -1,13 +1,14 @@
 {
   "name": "Prime Payment",
-  "timestamp": "2022-01-22T07:22:42+0000",
+  "timestamp": "2022-03-10T01:46:03+00:00",
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "keywords": [
     "prime",
+    "d2d",
     "payment tokens"
   ],
   "tokens": [
