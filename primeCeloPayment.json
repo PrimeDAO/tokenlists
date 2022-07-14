@@ -1,0 +1,24 @@
+{
+  "name": "Prime Payment",
+  "timestamp": "2022-03-10T01:46:03+00:00",
+  "version": {
+    "major": 1,
+    "minor": 4,
+    "patch": 0
+  },
+  "keywords": [
+    "prime",
+    "d2d",
+    "payment tokens"
+  ],
+  "tokens": [
+    {
+      "address": "0x765de816845861e75a25fca122bb6898b8b1282a",
+      "chainId": 42220,
+      "name": "Celo Dollar",
+      "symbol": "CUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PrimeDAO/tokenlists/main/logos/cUSD.png"
+    }
+  ]
+}
