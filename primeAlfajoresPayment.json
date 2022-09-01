@@ -20,13 +20,5 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/PrimeDAO/tokenlists/main/logos/cUSD.png"
     },
-    {
-      "address": "0x0e0295Ab71aB64dDa0705C12074DC293B3eF9253",
-      "chainId": 44787,
-      "name": "Prime",
-      "symbol": "D2D",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PrimeDAO/tokenlists/main/logos/D2D.png"
-    }
   ]
 }
