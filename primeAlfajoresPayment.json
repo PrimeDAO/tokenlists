@@ -13,12 +13,20 @@
   ],
   "tokens": [
     {
-      "address": "0x0e0295Ab71aB64dDa0705C12074DC293B3eF9253",
+      "address": "0x874069Fa1Eb16D44d622F2e0Ca25eeA172369bC1",
       "chainId": 44787,
       "name": "Celo Dollar",
       "symbol": "CUSD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/PrimeDAO/tokenlists/main/logos/cUSD.png"
+    },
+    {
+      "address": "0x0e0295Ab71aB64dDa0705C12074DC293B3eF9253",
+      "chainId": 44787,
+      "name": "Prime",
+      "symbol": "D2D",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PrimeDAO/tokenlists/main/logos/D2D.png"
     }
   ]
 }
