@@ -93,6 +93,38 @@
       "logoURI": "https://raw.githubusercontent.com/PrimeDAO/tokenlists/main/logos/weth.png"
     },
     {
+      "address": "0xF70d807A0828d2498fa01246c88bA5BaCd70889b",
+      "chainId": 5,
+      "name": "Prime",
+      "symbol": "D2D",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PrimeDAO/tokenlists/main/logos/D2D.png"
+    },
+    {
+      "address": "0xf2d68898557ccb2cf4c10c3ef2b034b2a69dad00",
+      "chainId": 5,
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://primedao.mypinata.cloud/ipfs/QmVChZZtAijsiTnMRFb6ziQLnRocXnBU2Lb3F67K2ZPHho"
+    },
+    {
+      "address": "0xd87ba7a50b2e7e660f678a895e4b72e7cb4ccd9c",
+      "chainId": 5,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://primedao.mypinata.cloud/ipfs/QmV17MDKrb3aCQa2a2SzBZaCeAeAFrpFmqCjn351cWApGS"
+    },
+    {
+      "address": "0xb4fbf271143f4fbf7b91a5ded31805e42b2208d6",
+      "chainId": 5,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PrimeDAO/tokenlists/main/logos/weth.png"
+    },
+    {
       "address": "0xC8796bd3FcEca6f38f925e115B0163Ba6627Fd52",
       "chainId": 42,
       "name": "Prime",
