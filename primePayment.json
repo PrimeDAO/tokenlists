@@ -101,7 +101,7 @@
       "logoURI": "https://raw.githubusercontent.com/PrimeDAO/tokenlists/main/logos/D2D.png"
     },
     {
-      "address": "0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844",
+      "address": "0x8c9e6c40d3402480ACE624730524fACC5482798c",
       "chainId": 5,
       "name": "Dai Stablecoin",
       "symbol": "DAI",
@@ -109,7 +109,7 @@
       "logoURI": "https://primedao.mypinata.cloud/ipfs/QmVChZZtAijsiTnMRFb6ziQLnRocXnBU2Lb3F67K2ZPHho"
     },
     {
-      "address": "0xd87ba7a50b2e7e660f678a895e4b72e7cb4ccd9c",
+      "address": "0xe0C9275E44Ea80eF17579d33c55136b7DA269aEb",
       "chainId": 5,
       "name": "USD Coin",
       "symbol": "USDC",
